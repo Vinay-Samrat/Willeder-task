@@ -1,0 +1,37 @@
+.footer {
+  background-color: #5d6273;
+  height: 300px;
+}
+.footer-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+//   gap: 96px;
+  font-size: 16px;
+  font-family: "Noto Sans", sans-serif;
+}
+.logos-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin-top: 50px;
+}
+.logoos {
+  width: 48px;
+  height: 48px;
+}
+.home {
+  margin-top: 50px;
+  display: flex;
+  gap: 96px;
+}
+
+.separator {
+      width: 60%;
+      height: 2px; /* Set the height of the line */
+      background-color: #fff; /* Set the background color to white */
+      margin: 50px 200px 0px 300px; /* Adjust margin as needed */
+    }
+    
